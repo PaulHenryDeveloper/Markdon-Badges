@@ -4,7 +4,6 @@
 Adicione emblemas ao seu perfil e projetos deixando-os com um toque a mais de detalhes e tornando-os bonitos e organizados para todos que visitarem.
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
-![npm version](https://img.shields.io/npm/v/my-project.svg)
 ![Build Status](https://img.shields.io/travis/com/username/my-project.svg)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
@@ -133,7 +132,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Google Assistente | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
 
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🔗 Blockchain
 
@@ -141,7 +140,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | ----------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Hyperledger | ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) | `![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)` |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 📝 Blog
 
@@ -157,7 +156,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Substack   | ![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)| `![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)`    |
 | Wix        | ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)                         | `![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)`                         |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🌐 Navegadores
 
@@ -175,7 +174,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Tor           | ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)                        | `![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)`                        |
 | Vivaldi       | ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)                    | `![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)`                    |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🔬 CI
 
@@ -189,7 +188,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | TeamCity       | ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)                       | `![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)`                       |
 | Travis CI      | ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)                   | `![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)`                   |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 📲 CD
 
@@ -197,7 +196,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
 | Octopus Deploy | ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) | `![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)` |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 📂 Armazenamento na núvem
 
@@ -211,7 +210,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | OneDrive   | ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)       | `![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)`       |
 | Proton Drive | ![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)  |  `![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)` |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 💲 Criptomoeda
 
@@ -235,7 +234,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Xrp          | ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)                                 | `![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)`                                 |
 | Z Cash       | ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)                         | `![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)`                         |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 💾 Bancos de dados
 
@@ -263,7 +262,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | SurrealDB             | ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)                                          | `![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)`                                          |
 | Teradata             | ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)                                          | `![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)`                                          |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🎨 Design
 
@@ -299,7 +298,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Sketch                  | ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)                                                                | `![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)`                                                                |
 | Storybook               | ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)                                                      | `![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)`                                                      |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🧑‍💻 Desenvolvedor/Fóruns
 
@@ -320,7 +319,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Stack Overflow | ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)         | `![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)`         |
 | XDA-Developers | ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white) | `![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)` |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 📑 Plataformas de Documentação
 
@@ -330,7 +329,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Wikipedia | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) | `![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)` |
 | Wiki.js   | ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)     | `![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)`     |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🎓 Educação
 
@@ -357,7 +356,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Udacity         | ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)                      | `![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)`                      |
 | Udemy           | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)                           | `![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)`                           |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 💰 Finanças
 
@@ -377,7 +376,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Samsung Pay         | ![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)             | `![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)`             |
 | Wise | ![Wise](https://img.shields.io/badge/wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)                            | `![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)`                            |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 📚 Frameworks, plataformas e bibliotecas
 
@@ -500,7 +499,7 @@ Você pode me encontrar no [Telegram @PaulHenrySantus](https://t.me/paulhenrysan
 | Yarn               | ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)                                          | `![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)`                                          |
 Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)                                             | `![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)`                                             |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🎮 Jogos
 
@@ -523,7 +522,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Unreal Engine       | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) | `![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)` |
 | Xbox                | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)                          | `![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`                          |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🕹️ Consoles de jogos
 
@@ -542,7 +541,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Wii U            | ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)                                   | `![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)`                                   |
 | Xbox             | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)                                | `![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`                                |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### ☁️ Hospedagem/SaaS
 
@@ -571,7 +570,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Vercel        | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)                    | `![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)`                    |
 | Vultr         | ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)                                          | `![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)`                                         |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 💻 IDEs/Editores
 
@@ -608,7 +607,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Zend               | ![Zend](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)                                                     | `![Zend](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)`                                                     |
 | Stackblitz               | ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)                                                     | `![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)`                                                     |
 
-[(Back to top)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 📋 Linguagens de Programação
 
@@ -661,7 +660,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 |YAML              |![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)|`![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)`|
 | Zig              | ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)                                          | `![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)`                                            |
 
-[(Back to top)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🖥️ ML/DL
 
@@ -678,7 +677,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | SciPy        | ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      | `![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)`                      |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        | `![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)`        |
 
-[(Back to top)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🎶 Música
 
@@ -693,7 +692,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Tidal         | ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)                         | `![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)`                         |
 | YouTube Music | ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) | `![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🏢 Pacote Office
 
@@ -709,7 +708,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Microsoft Visio      | ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)                | `![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)`                |
 | Microsoft Word       | ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)                    | `![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)`                    |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🎛️ Sistema Operacional
 
@@ -756,7 +755,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Windows XP    | ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)             | `![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)`             |
 | Zorin OS      | ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)                 | `![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)`                 |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🎋 ORM
 
@@ -767,7 +766,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Sequelize | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) | `![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)` |
 | Quill     | ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)            | `![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)`            |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🥅 Outros
 
@@ -826,7 +825,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | XFCE           | ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)                                 | `![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)`                                 |
 | Zigbee         | ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)                           | `![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)`                           |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🖥️ Estruturas e Bibliotecas de Programação Quântica
 
@@ -834,7 +833,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | ------ | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
 | Qiskit | ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) | `![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)` |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🔍 Mecanismos de busca
 
@@ -846,7 +845,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Google     | ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)                   | `![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)`                   |
 | Yahoo!     | ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)                   | `![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)`                   |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🗄️ Servidores
 
@@ -862,7 +861,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Jenkins        | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)                     | `![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)`                     |
 | Nginx          | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)                           | `![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)`                           |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 💬 Rede Social
 
@@ -911,7 +910,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Zoom        | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)                              | `![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)`                              |
 | Threads        | ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)                       | `![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)`                       |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 📱 Marcas de Celular
 
@@ -929,7 +928,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Samsung    | ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)       | `![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)`       |
 | Xiaomi     | ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)          | `![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)`          |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🛍️ Loja
 
@@ -940,7 +939,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Play Store | ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) | `![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)` |
 | AppGallery | ![AppGallery](https://img.shields.io/badge/AppGallery-C80A2D?style=for-the-badge&logo=huawei&logoColor=white) | `![AppGallery](https://img.shields.io/badge/AppGallery-C80A2D?style=for-the-badge&logo=huawei&logoColor=white)` |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 📺 Streaming
 
@@ -958,7 +957,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Twitch          | ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)                             | `![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`                             |
 | Youtube Gaming  | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)    | `![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`    |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🧪 Teste
 
@@ -971,7 +970,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Selenium        | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)                       | `![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)`                       |
 | Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) | `![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)` |
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 🕓 Controle de versão
 
@@ -989,7 +988,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Mercurial      | ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)         | `![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)`         |
 | Perforce Helix | ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white) | `![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)` |
 
-[(Back to top)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### ⌚️ Wearables
 
@@ -997,7 +996,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Fitbit      | ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)             | `![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)`             |
 
-[(Back to top)](#table-of-contents)
+[(De volta ao topo)](#índice)
 
 ### 💼 Trabalho/Empregos
 
@@ -1012,4 +1011,4 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Upwork       | ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)                      | `![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`                      |
 
 
-[(De volta ao topo)](#table-of-contents)
+[(De volta ao topo)](#índice)
