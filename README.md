@@ -1,7 +1,12 @@
 ![Markdown-Badge-Banner](assets/Banner/Markdown-Badges-Banner.png)
 
 # Markdown Badges
-Adicione emblemas ao seu perfil e projetos.
+Adicione emblemas ao seu perfil e projetos deixando-os com um toque a mais de detalhes e tornando-os bonitos e organizados para todos que visitarem.
+
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+![npm version](https://img.shields.io/npm/v/my-project.svg)
+![Build Status](https://img.shields.io/travis/com/username/my-project.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 # Índice
 - [Markdown Badges](#markdown-badges)
