@@ -1,4 +1,4 @@
-![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
+![Markdown-Badge-Banner](assets/Banner/Markdown-Badges-Banner.png)
 
 # Markdown Badges
 Adicione emblemas ao seu perfil e projetos.
